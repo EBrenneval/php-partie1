@@ -1,0 +1,12 @@
+h3{
+    color:blueviolet;
+    
+    text-align: center;
+}
+p{
+    background-color: silver;
+    height: 80px;
+    width: 150px;
+    margin-left: 40%;
+    text-align: center;
+}
